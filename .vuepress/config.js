@@ -1,6 +1,6 @@
 module.exports = {
-  title: "vuepress-theme-reco",
-  description: 'A simple and beautiful vuepress blog theme .',
+  title: "zack的blog",
+  description: '我学习成长的地方 .',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -11,16 +11,16 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/', icon: 'reco-home' },
       { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' },
-      { text: 'Docs', 
-        icon: 'reco-message',
-        items: [
-          { text: 'vuepress-reco', link: '/docs/theme-reco/' }
-        ]
-      },
+      // { text: 'Docs', 
+      //   icon: 'reco-message',
+      //   items: [
+      //     { text: 'vuepress-reco', link: '/docs/theme-reco/' }
+      //   ]
+      // },
       { text: 'Contact', 
         icon: 'reco-message',
         items: [
-          { text: 'GitHub', link: 'https://github.com/recoluan', icon: 'reco-github' }
+          { text: 'GitHub', link: 'https://github.com/skii22', icon: 'reco-github' }
         ]
       }
     ],
@@ -45,11 +45,17 @@ module.exports = {
       }
     },
     friendLink: [
+      // {
+      //   title: '百度',
+      //   desc: 'Enjoy when you can, and endure when you must.',
+      //   email: '1156743527@qq.com',
+      //   link: 'https://www.recoluan.com'
+      // },
       {
-        title: '午后南杂',
+        title: '百度',
+        avatar: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         desc: 'Enjoy when you can, and endure when you must.',
-        email: '1156743527@qq.com',
-        link: 'https://www.recoluan.com'
+        link: 'https://www.baidu.com'
       },
       {
         title: 'vuepress-theme-reco',
@@ -65,24 +71,24 @@ module.exports = {
     // 自动形成侧边导航
     // sidebar: 'auto',
     // 最后更新时间
-    lastUpdated: 'Last Updated',
+    lastUpdated: '2022/6/30',
     // 作者
-    author: 'reco_luan',
+    author: 'zack',
     // 作者头像
     authorAvatar: '/avatar.png',
     // 备案号
-    record: 'xxxx',
+    // record: 'xxxx',
     // 项目开始时间
-    startYear: '2017'
+    startYear: '2022'
     /**
      * 密钥 (if your blog is private)
      */
 
-    // keyPage: {
-    //   keys: ['your password'],
-    //   color: '#42b983',
-    //   lineColor: '#42b983'
-    // },
+    keyPage: {
+      keys: ['kfa300'],
+      color: '#42b983',
+      lineColor: '#42b983'
+    }
 
     /**
      * valine 设置 (if you need valine comment )

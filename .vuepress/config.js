@@ -1,6 +1,11 @@
 module.exports = {
+<<<<<<< HEAD
   title: "zack的BLOG",
   description: '记录我学习成长的地方。.',
+=======
+  title: "zack的blog",
+  description: '我学习成长的地方 .',
+>>>>>>> 5815417ce624171eea886ed31a3dd50181b1b30b
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -46,14 +51,23 @@ module.exports = {
     },
     friendLink: [
       // {
+<<<<<<< HEAD
       //   title: '午后南杂',
+=======
+      //   title: '百度',
+>>>>>>> 5815417ce624171eea886ed31a3dd50181b1b30b
       //   desc: 'Enjoy when you can, and endure when you must.',
       //   email: '1156743527@qq.com',
       //   link: 'https://www.recoluan.com'
       // },
       {
         title: '百度',
+<<<<<<< HEAD
         desc: '众人寻你千百度',
+=======
+        avatar: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
+        desc: 'Enjoy when you can, and endure when you must.',
+>>>>>>> 5815417ce624171eea886ed31a3dd50181b1b30b
         link: 'https://www.baidu.com'
       },
       {
@@ -70,7 +84,11 @@ module.exports = {
     // 自动形成侧边导航
     sidebar: 'auto',
     // 最后更新时间
+<<<<<<< HEAD
     lastUpdated: '2022/6/30 11:41',
+=======
+    lastUpdated: '2022/6/30',
+>>>>>>> 5815417ce624171eea886ed31a3dd50181b1b30b
     // 作者
     author: 'zack',
     // 作者头像
@@ -78,16 +96,24 @@ module.exports = {
     // 备案号
     // record: 'xxxx',
     // 项目开始时间
+<<<<<<< HEAD
     startYear: '2022',
+=======
+    startYear: '2022'
+>>>>>>> 5815417ce624171eea886ed31a3dd50181b1b30b
     /**
      * 密钥 (if your blog is private)
      */
 
     // keyPage: {
+<<<<<<< HEAD
     //   keys: ['123456'],
+=======
+    //   keys: ['kfa300'],
+>>>>>>> 5815417ce624171eea886ed31a3dd50181b1b30b
     //   color: '#42b983',
     //   lineColor: '#42b983'
-    // },
+    // }
 
     /**
      * valine 设置 (if you need valine comment )

@@ -22,7 +22,9 @@ module.exports = {
       { text: 'Contact', 
         icon: 'reco-message',
         items: [
-          { text: 'GitHub', link: 'https://github.com/skii22', icon: 'reco-github' }
+          { text: 'GitHub', link: 'https://github.com/skii22', icon: 'reco-github' },
+          { text: 'Steam', link: 'https://steamcommunity.com/profiles/76561198803959356/' },
+          { text: '网易云', link: 'https://music.163.com/#/user/home?id=380486672' }
         ]
       }
     ],
@@ -56,14 +58,14 @@ module.exports = {
       {
         title: '百度',
         desc: '众人寻你千百度',
-        avatar: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
+        // avatar: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         desc: 'Enjoy when you can, and endure when you must.',
         link: 'https://www.baidu.com'
       },
       {
         title: 'vuepress-theme-reco',
         desc: 'A simple and beautiful vuepress Blog & Doc theme.',
-        avatar: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
+        // avatar: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         link: 'https://vuepress-theme-reco.recoluan.com'
       },
     ],

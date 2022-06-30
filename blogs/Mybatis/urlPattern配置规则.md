@@ -1,4 +1,5 @@
 ---
+title: urlPattern配置规则
 date: 2022-6-29
 tags:
  - Mybatis

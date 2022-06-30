@@ -1,10 +1,10 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: zack blog
+tagline: A simple and beautiful blog.
 # heroImage: /hero.png
 # heroImageStyle: {
-#   maxWidth: '600px',
+# maxWidth: '600px',
 #   width: '100%',
 #   display: block,
 #   margin: '9rem auto 2rem',

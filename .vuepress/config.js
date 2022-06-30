@@ -1,5 +1,5 @@
 module.exports = {
-  title: "zack的BLOG",
+  title: "zack的学习笔记",
   description: '记录我学习成长的地方。.',
 
 

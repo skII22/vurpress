@@ -90,10 +90,10 @@ module.exports = {
      */
 
     // keyPage: {
-    //   keys: ['kfa300'],
+    //   keys: ['your password','kfa300'],
     //   color: '#42b983',
     //   lineColor: '#42b983'
-    // }
+    // },
 
     /**
      * valine 设置 (if you need valine comment )
